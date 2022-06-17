@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+
+.form-container{
+	position:fixed;
+	top:268px;
+	background: #fff;
+	padding: 52px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px #000;
+	
+}
+body{
+	background-image: url('./image/food.jpg');
+	height:100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+label{
+	width: 100%;
+	display: inline-block;
+	
+
+}
+
+
